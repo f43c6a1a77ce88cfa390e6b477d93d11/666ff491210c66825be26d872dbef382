@@ -1,0 +1,297 @@
+{
+  "start_url": "https://photoforapp.s3.ap-southeast-1.amazonaws.com/",
+  "end_url": "",
+  "root_folder": "Video/Sticker/GIF/",
+  "center_url_cover": "Video/Sticker/GIF/Wing/Cover/1.gif",
+  "center_url_zip": "Video/Sticker/GIF/Wing/1.zip",
+  "list": [
+    {
+      "name": "Wing",
+      "name_vi": "Đôi cánh",
+      "folder": "Wing",
+      "cover": "Cover",
+      "index": 1,
+      "totalImage": 5
+    },
+    {
+      "name": "Wing",
+      "name_vi": "Đôi cánh",
+      "folder": "Wing",
+      "cover": "Cover",
+      "index": 2,
+      "totalImage": 5
+    },
+    {
+      "name": "Wing",
+      "name_vi": "Đôi cánh",
+      "folder": "Wing",
+      "cover": "Cover",
+      "index": 3,
+      "totalImage": 5
+    },
+    {
+      "name": "Wing",
+      "name_vi": "Đôi cánh",
+      "folder": "Wing",
+      "cover": "Cover",
+      "index": 4,
+      "totalImage": 5
+    },
+    {
+      "name": "Wing",
+      "name_vi": "Đôi cánh",
+      "folder": "Wing",
+      "cover": "Cover",
+      "index": 5,
+      "totalImage": 5
+    },
+    {
+      "name": "Love",
+      "name_vi": "Tình yêu",
+      "folder": "Love",
+      "cover": "Cover",
+      "index": 10,
+      "totalImage": 0
+    },
+    {
+      "name": "Love",
+      "name_vi": "Tình yêu",
+      "folder": "Love",
+      "cover": "Cover",
+      "index": 11,
+      "totalImage": 0
+    },
+    {
+      "name": "Love",
+      "name_vi": "Tình yêu",
+      "folder": "Love",
+      "cover": "Cover",
+      "index": 14,
+      "totalImage": 0
+    },
+    {
+      "name": "Love",
+      "name_vi": "Tình yêu",
+      "folder": "Love",
+      "cover": "Cover",
+      "index": 17,
+      "totalImage": 0
+    },
+    {
+      "name": "Love",
+      "name_vi": "Tình yêu",
+      "folder": "Love",
+      "cover": "Cover",
+      "index": 19,
+      "totalImage": 0
+    },
+    {
+      "name": "Love",
+      "name_vi": "Tình yêu",
+      "folder": "Love",
+      "cover": "Cover",
+      "index": 21,
+      "totalImage": 0
+    },
+    {
+      "name": "Love",
+      "name_vi": "Tình yêu",
+      "folder": "Love",
+      "cover": "Cover",
+      "index": 30,
+      "totalImage": 0
+    },
+    {
+      "name": "Valentine",
+      "name_vi": "Valentine",
+      "folder": "Valentine",
+      "cover": "Cover",
+      "index": 2,
+      "totalImage": 0
+    },
+    {
+      "name": "Valentine",
+      "name_vi": "Valentine",
+      "folder": "Valentine",
+      "cover": "Cover",
+      "index": 3,
+      "totalImage": 0
+    },
+    {
+      "name": "Valentine",
+      "name_vi": "Valentine",
+      "folder": "Valentine",
+      "cover": "Cover",
+      "index": 14,
+      "totalImage": 0
+    },
+    {
+      "name": "Christmas",
+      "name_vi": "Giáng sinh",
+      "folder": "Christmas",
+      "cover": "Cover",
+      "index": 1,
+      "totalImage": 0
+    },
+    {
+      "name": "Christmas",
+      "name_vi": "Giáng sinh",
+      "folder": "Christmas",
+      "cover": "Cover",
+      "index": 3,
+      "totalImage": 0
+    },
+    {
+      "name": "Christmas",
+      "name_vi": "Giáng sinh",
+      "folder": "Christmas",
+      "cover": "Cover",
+      "index": 4,
+      "totalImage": 0
+    },
+    {
+      "name": "Christmas",
+      "name_vi": "Giáng sinh",
+      "folder": "Christmas",
+      "cover": "Cover",
+      "index": 7,
+      "totalImage": 0
+    },
+    {
+      "name": "Christmas",
+      "name_vi": "Giáng sinh",
+      "folder": "Christmas",
+      "cover": "Cover",
+      "index": 10,
+      "totalImage": 0
+    },
+    {
+      "name": "Christmas",
+      "name_vi": "Giáng sinh",
+      "folder": "Christmas",
+      "cover": "Cover",
+      "index": 21,
+      "totalImage": 0
+    },
+    {
+      "name": "Christmas",
+      "name_vi": "Giáng sinh",
+      "folder": "Christmas",
+      "cover": "Cover",
+      "index": 23,
+      "totalImage": 0
+    },
+    {
+      "name": "Baby",
+      "name_vi": "Em bé",
+      "folder": "Baby",
+      "cover": "Cover",
+      "index": 19,
+      "totalImage": 0
+    },
+    {
+      "name": "Baby",
+      "name_vi": "Em bé",
+      "folder": "Baby",
+      "cover": "Cover",
+      "index": 20,
+      "totalImage": 0
+    },
+    {
+      "name": "Baby",
+      "name_vi": "Em bé",
+      "folder": "Baby",
+      "cover": "Cover",
+      "index": 21,
+      "totalImage": 0
+    },
+    {
+      "name": "Baby",
+      "name_vi": "Em bé",
+      "folder": "Baby",
+      "cover": "Cover",
+      "index": 22,
+      "totalImage": 0
+    },
+    {
+      "name": "Baby",
+      "name_vi": "Em bé",
+      "folder": "Baby",
+      "cover": "Cover",
+      "index": 23,
+      "totalImage": 0
+    },
+    {
+      "name": "Baby",
+      "name_vi": "Em bé",
+      "folder": "Baby",
+      "cover": "Cover",
+      "index": 24,
+      "totalImage": 0
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Cover",
+      "index": 2,
+      "totalImage": 0
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Cover",
+      "index": 4,
+      "totalImage": 0
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Cover",
+      "index": 9,
+      "totalImage": 0
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Cover",
+      "index": 13,
+      "totalImage": 0
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Cover",
+      "index": 16,
+      "totalImage": 0
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Cover",
+      "index": 17,
+      "totalImage": 0
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Cover",
+      "index": 23,
+      "totalImage": 0
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Cover",
+      "index": 33,
+      "totalImage": 0
+    }
+  ]
+}

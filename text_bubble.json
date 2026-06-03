@@ -1,0 +1,10 @@
+{
+  "start_link": "https://raw.githubusercontent.com/NgUyenNgOcKhAnH1190/6996f6bca16b514a97cd520ab909257a/refs/heads/main/Video/TextV2/",
+  "folderFrame":"frame/", 
+  "folderFont":"font/",
+  "totalBubble": 200,
+  "cover": "cover.png",
+  "nameJson": "text.json",
+  "nameBubble": "layer_1.png",
+  "nameMask": "layer_2_mask.png"
+}

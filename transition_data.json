@@ -1,0 +1,849 @@
+{
+  "start_url": "https://raw.githubusercontent.com/NgUyenNgOcKhAnH1190/6996f6bca16b514a97cd520ab909257a/refs/heads/main/Video/TransitionsServer/",
+  "root_folder": "Socials/",
+  "listTrending": [
+    {
+      "name_En": "Mix",
+      "name_Vi": "Kết hợp",
+      "key": "MIX",
+      "type_transition": "BASIC"
+    },
+    {
+      "name_En": "Up",
+      "name_Vi": "Kéo lên",
+      "key": "UP",
+      "type_transition": "BASIC"
+    },
+    {
+      "name_En": "Down",
+      "name_Vi": "Kéo xuống",
+      "key": "DOWN",
+      "type_transition": "BASIC"
+    },
+    {
+      "name_En": "Split 1",
+      "name_Vi": "Cắt 1",
+      "key": "SPLIT_1",
+      "type_transition": "EFFECT"
+    },
+    {
+      "name_En": "Split 2",
+      "name_Vi": "Cắt 2",
+      "key": "SPLIT_2",
+      "type_transition": "EFFECT"
+    },
+    {
+      "name_En": "Superimpose",
+      "name_Vi": "Chồng lên",
+      "key": "SUPERIMPOSE",
+      "type_transition": "BASIC"
+    },
+    {
+      "name_En": "Glare 1",
+      "name_Vi": "Glare 1",
+      "key": "10",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "Fire 3",
+      "name_Vi": "Fire 3",
+      "key": "3",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "Fire 4",
+      "name_Vi": "Fire 4",
+      "key": "4",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "Glare 5",
+      "name_Vi": "Glare 5",
+      "key": "14",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "Glare 7",
+      "name_Vi": "Glare 7",
+      "key": "16",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "Circle 1",
+      "name_Vi": "Mở hình tròn",
+      "key": "CIRCLE",
+      "type_transition": "Mask"
+    },
+    {
+      "name_En": "Star 1",
+      "name_Vi": "Sao 1",
+      "key": "STAR",
+      "type_transition": "Mask"
+    },
+    {
+      "name_En": "Heart 1",
+      "name_Vi": "Trái tim 1",
+      "key": "HEART",
+      "type_transition": "Mask"
+    },
+    {
+      "name_En": "Blinds",
+      "name_Vi": "Kéo rèm",
+      "key": "BLINDS",
+      "type_transition": "Slide"
+    },
+    {
+      "name_En": "Clock wipe",
+      "name_Vi": "Đồng hồ",
+      "key": "CLOCK_WIPE",
+      "type_transition": "Slide"
+    },
+    {
+      "name_En": "MG 11",
+      "name_Vi": "MG 11",
+      "key": "11",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "MG 15",
+      "name_Vi": "MG 15",
+      "key": "15",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "MG 20",
+      "name_Vi": "MG 20",
+      "key": "20",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "Socials 2",
+      "name_Vi": "Socials 2",
+      "key": "2",
+      "type_transition": "SEVER"
+    },
+    {
+      "name_En": "Socials 4",
+      "name_Vi": "Socials 4",
+      "key": "4",
+      "type_transition": "SEVER"
+    }
+  ],
+  "list_default": [
+    {
+      "name_folder": "Camera",
+      "name_en": "Camera",
+      "name_vi": "Camera",
+      "icon": "Icon",
+      "listData": [
+        {
+          "name_En": "3D Space",
+          "name_Vi": "Không gian 3D",
+          "key": "CAMERA_D3_SPACE",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Pull in",
+          "name_Vi": "Kéo vào",
+          "key": "CAMERA_PULL_IN",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Pull Out",
+          "name_Vi": "Kéo ra",
+          "key": "CAMERA_PULL_OUT",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Spin clockwise",
+          "name_Vi": "Quay theo chiều kim đồng hồ",
+          "key": "CAMERA_SPIN_CLOCKWISE",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Spin Counter-clockwise",
+          "name_Vi": "Quay ngược chiều kim đồng hồ ",
+          "key": "CAMERA_SPIN_COUNTER_CLOCKWISE",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Up",
+          "name_Vi": "Lên",
+          "key": "CAMERA_UP",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Down",
+          "name_Vi": "Xuống",
+          "key": "CAMERA_DOWN",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Left",
+          "name_Vi": "Trái",
+          "key": "CAMERA_LEFT",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Right",
+          "name_Vi": "Phải",
+          "key": "CAMERA_RIGHT",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Top Left",
+          "name_Vi": "Trên cùng bên trái",
+          "key": "CAMERA_TOP_LEFT",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Bottom Left",
+          "name_Vi": "Dưới cùng bên trái",
+          "key": "CAMERA_BOTTOM_LEFT",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Top Right",
+          "name_Vi": "Trên cùng bên phải",
+          "key": "CAMERA_TOP_RIGHT",
+          "type_transition": "CAMERA"
+        },
+        {
+          "name_En": "Bottom Right",
+          "name_Vi": "Dưới cùng bên phải",
+          "key": "CAMERA_BOTTOM_RIGHT",
+          "type_transition": "CAMERA"
+        }
+      ]
+    },
+    {
+      "name_folder": "Effect",
+      "name_en": "Effect",
+      "name_vi": "Hiệu ứng",
+      "icon": "Icon",
+      "listData": [
+        {
+          "name_En": "Split 1",
+          "name_Vi": "Cắt 1",
+          "key": "SPLIT_1",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Split 2",
+          "name_Vi": "Cắt 2",
+          "key": "SPLIT_2",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Split 3",
+          "name_Vi": "Cắt 3",
+          "key": "SPLIT_3",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Split 4",
+          "name_Vi": "Cắt 4",
+          "key": "SPLIT_4",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Stretch left",
+          "name_Vi": "Kéo dài sang trái",
+          "key": "STRETCH_LEFT",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Stretch right",
+          "name_Vi": "Kéo dài sang phải",
+          "key": "STRETCH_RIGHT",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Light beam",
+          "name_Vi": "Chùm tia sáng",
+          "key": "LIGHT_BEAM",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Glare3",
+          "name_Vi": "Chói lòa 3",
+          "key": "GLARE3",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Black smoke",
+          "name_Vi": "Khói đen",
+          "key": "BLACK_SMOKE",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "White smoke",
+          "name_Vi": "Khói trắng",
+          "key": "WHITE_SMOKE",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Whirlpool",
+          "name_Vi": "Xoáy lớn",
+          "key": "WHIRLPOOL",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Vertical Slices",
+          "name_Vi": "Cắt dọc",
+          "key": "VERTICAL_SLICES",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Horizontal Slices",
+          "name_Vi": "Cắt ngang",
+          "key": "HORIZONTAL_SLICES",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Diagonal Slices",
+          "name_Vi": "Cắt chéo",
+          "key": "DIAGONAL_SLICES",
+          "type_transition": "EFFECT"
+        },
+        {
+          "name_En": "Camera",
+          "name_Vi": "Máy ảnh",
+          "key": "9",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Fire 1",
+          "name_Vi": "Fire 1",
+          "key": "1",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Fire 2",
+          "name_Vi": "Fire 2",
+          "key": "2",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Fire 3",
+          "name_Vi": "Fire 3",
+          "key": "3",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Fire 4",
+          "name_Vi": "Fire 4",
+          "key": "4",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Fire 5",
+          "name_Vi": "Fire 5",
+          "key": "5",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Fire 6",
+          "name_Vi": "Fire 6",
+          "key": "6",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Fire 7",
+          "name_Vi": "Fire 7",
+          "key": "7",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Fire 8",
+          "name_Vi": "Fire 8",
+          "key": "8",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Glare 1",
+          "name_Vi": "Glare 1",
+          "key": "10",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Glare 2",
+          "name_Vi": "Glare 2",
+          "key": "11",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Glare 3",
+          "name_Vi": "Glare 3",
+          "key": "12",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Glare 4",
+          "name_Vi": "Glare 4",
+          "key": "13",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Glare 5",
+          "name_Vi": "Glare 5",
+          "key": "14",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Glare 6",
+          "name_Vi": "Glare 6",
+          "key": "15",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Glare 7",
+          "name_Vi": "Glare 7",
+          "key": "16",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Brush 1",
+          "name_Vi": "Brush 1",
+          "key": "17",
+          "type_transition": "SEVER"
+        }
+      ]
+    },
+    {
+      "name_folder": "MG",
+      "name_en": "MG",
+      "name_vi": "MG",
+      "icon": "Icon",
+      "totalFile": 26
+    },
+    {
+      "name_folder": "Socials",
+      "name_en": "Socials",
+      "name_vi": "Socials",
+      "icon": "Icon",
+      "totalFile": 7
+    },
+    {
+      "name_folder": "Basic",
+      "name_en": "Basic",
+      "name_vi": "Basic",
+      "type_transition": "",
+      "icon": "Icon",
+      "listData": [
+        {
+          "name_En": "Eye",
+          "name_Vi": "Mắt",
+          "key": "1",
+          "type_transition": "SEVER"
+        },
+        {
+          "name_En": "Back fade",
+          "name_Vi": "Đen mờ dần",
+          "key": "BLACK_FADE",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Flip",
+          "name_Vi": "Lật",
+          "key": "FLIP",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Open vertical",
+          "name_Vi": "Mở ra",
+          "key": "OPEN_VERTICAL",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Open horizontal",
+          "name_Vi": "Mở ngang",
+          "key": "OPEN_HORIZONTAL",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Wipe right",
+          "name_Vi": "Lau bên phải",
+          "key": "WIPE_RIGHT",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Wipe left",
+          "name_Vi": "Kéo sang trái",
+          "key": "WIPE_LEFT",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Wipe down",
+          "name_Vi": "Lau xuống",
+          "key": "WIPE_DOWN",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Wipe up",
+          "name_Vi": "Lau lên",
+          "key": "WIPE_UP",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Up",
+          "name_Vi": "Kéo lên",
+          "key": "UP",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Down",
+          "name_Vi": "Kéo xuống",
+          "key": "DOWN",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Left",
+          "name_Vi": "Kéo sang trái",
+          "key": "LEFT",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Right",
+          "name_Vi": "Kéo sang phải",
+          "key": "RIGHT",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Mix",
+          "name_Vi": "Kết hợp",
+          "key": "MIX",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Flashes",
+          "name_Vi": "Lóe",
+          "key": "FLASHES",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Blanch",
+          "name_Vi": "Làm trắng",
+          "key": "BLANCH",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Superimpose",
+          "name_Vi": "Chồng lên",
+          "key": "SUPERIMPOSE",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Blur",
+          "name_Vi": "Mờ nhạt",
+          "key": "BLUR",
+          "type_transition": "BASIC"
+        },
+        {
+          "name_En": "Infinite 2",
+          "name_Vi": "Xuyên không 2",
+          "key": "INFINITE2",
+          "type_transition": "BASIC"
+        }
+      ]
+    },
+    {
+      "name_folder": "Mask",
+      "name_en": "Mask",
+      "name_vi": "Mask",
+      "icon": "Icon",
+      "listData": [
+        {
+          "name_En": "Circle 1",
+          "name_Vi": "Mở hình tròn",
+          "key": "CIRCLE",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Circle 2",
+          "name_Vi": "Đóng hình tròn",
+          "key": "CIRCLE1",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Star 1",
+          "name_Vi": "Sao 1",
+          "key": "STAR",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Start 2",
+          "name_Vi": "Sao 2",
+          "key": "STAR1",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Heart 1",
+          "name_Vi": "Trái tim 1",
+          "key": "HEART",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Heart 2",
+          "name_Vi": "Trái tim 2",
+          "key": "HEART1",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Heart 3",
+          "name_Vi": "Trái tim 3",
+          "key": "HEART2",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Ink",
+          "name_Vi": "Vết mực",
+          "key": "INK",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Erasure",
+          "name_Vi": "Cục tẩy",
+          "key": "ERASURE",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Clouds 1",
+          "name_Vi": "Mây 1",
+          "key": "CLOUDS",
+          "type_transition": "Mask"
+        },
+        {
+          "name_En": "Clouds 2",
+          "name_Vi": "Mây 2",
+          "key": "CLOUDS1",
+          "type_transition": "Mask"
+        }
+      ]
+    },
+    {
+      "name_folder": "Slide",
+      "name_en": "Slide",
+      "name_vi": "Slide",
+      "icon": "Icon",
+      "listData": [
+        {
+          "name_En": "Blinds",
+          "name_Vi": "Kéo rèm",
+          "key": "BLINDS",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Pane",
+          "name_Vi": "Mở rèm",
+          "key": "PANE",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Squeeze",
+          "name_Vi": "Nén lại",
+          "key": "SQUEEZE",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Open",
+          "name_Vi": "Mở ra",
+          "key": "OPEN",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Switch",
+          "name_Vi": "Chuyển",
+          "key": "SWITCH",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Clock wipe",
+          "name_Vi": "Đồng hồ",
+          "key": "CLOCK_WIPE",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Windmill",
+          "name_Vi": "Cối xoay gió",
+          "key": "WINDMILL",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Bounce",
+          "name_Vi": "Bật nảy",
+          "key": "BOUNCE",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Cube",
+          "name_Vi": "Khối lập phương",
+          "key": "CUBE",
+          "type_transition": "Slide"
+        },
+        {
+          "name_En": "Memory1",
+          "name_Vi": "Ký ức 1",
+          "key": "MEMORY1",
+          "type_transition": "Slide"
+        }
+      ]
+    },
+    {
+      "name_folder": "Film",
+      "name_en": "Film",
+      "name_vi": "Film",
+      "icon": "Icon",
+      "listData": [
+        {
+          "name_En": "FILM1",
+          "name_Vi": "FILM1",
+          "key": "FILM1",
+          "type_transition": "Film"
+        },
+        {
+          "name_En": "FILM2",
+          "name_Vi": "FILM2",
+          "key": "FILM2",
+          "type_transition": "Film"
+        },
+        {
+          "name_En": "FILM3",
+          "name_Vi": "FILM3",
+          "key": "FILM3",
+          "type_transition": "Film"
+        },
+        {
+          "name_En": "FILM5",
+          "name_Vi": "FILM5",
+          "key": "FILM5",
+          "type_transition": "Film"
+        },
+        {
+          "name_En": "FILM6",
+          "name_Vi": "FILM6",
+          "key": "FILM6",
+          "type_transition": "Film"
+        },
+        {
+          "name_En": "FILM7",
+          "name_Vi": "FILM7",
+          "key": "FILM7",
+          "type_transition": "Film"
+        }
+      ]
+    },
+    {
+      "name_folder": "Glitch",
+      "name_en": "Glitch",
+      "name_vi": "Glitch",
+      "icon": "Icon",
+      "listData": [
+        {
+          "name_En": "GLITCH1",
+          "name_Vi": "GLITCH1",
+          "key": "GLITCH1",
+          "type_transition": "Glitch"
+        },
+        {
+          "name_En": "GLITCH2",
+          "name_Vi": "GLITCH2",
+          "key": "GLITCH2",
+          "type_transition": "Glitch"
+        },
+        {
+          "name_En": "GLITCH3",
+          "name_Vi": "GLITCH3",
+          "key": "GLITCH3",
+          "type_transition": "Glitch"
+        },
+        {
+          "name_En": "GLITCH7",
+          "name_Vi": "GLITCH7",
+          "key": "GLITCH7",
+          "type_transition": "Glitch"
+        },
+        {
+          "name_En": "GLITCH11",
+          "name_Vi": "GLITCH11",
+          "key": "GLITCH11",
+          "type_transition": "Glitch"
+        }
+      ]
+    },
+    {
+      "name_folder": "Slice",
+      "name_en": "Slice",
+      "name_vi": "Slice",
+      "icon": "Icon",
+      "listData": [
+        {
+          "name_En": "SLICE1",
+          "name_Vi": "SLICE1",
+          "key": "SLICE1",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE2",
+          "name_Vi": "SLICE2",
+          "key": "SLICE2",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE3",
+          "name_Vi": "SLICE3",
+          "key": "SLICE3",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE4",
+          "name_Vi": "SLICE4",
+          "key": "SLICE4",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE5",
+          "name_Vi": "SLICE5",
+          "key": "SLICE5",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE6",
+          "name_Vi": "SLICE6",
+          "key": "SLICE6",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE7",
+          "name_Vi": "SLICE7",
+          "key": "SLICE7",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE8",
+          "name_Vi": "SLICE8",
+          "key": "SLICE8",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE9",
+          "name_Vi": "SLICE9",
+          "key": "SLICE9",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE11",
+          "name_Vi": "SLICE11",
+          "key": "SLICE11",
+          "type_transition": "Slice"
+        },
+        {
+          "name_En": "SLICE12",
+          "name_Vi": "SLICE12",
+          "key": "SLICE12",
+          "type_transition": "Slice"
+        }
+      ]
+    }
+  ]
+}

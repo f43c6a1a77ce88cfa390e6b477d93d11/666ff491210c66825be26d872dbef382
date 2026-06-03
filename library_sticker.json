@@ -1,0 +1,359 @@
+{
+  "start_url": "https://raw.githubusercontent.com/NgUyenNgOcKhAnH1190/6996f6bca16b514a97cd520ab909257a/refs/heads/main/",
+  "root_folder": "Video/Sticker/GIF_GIF/",
+  "type_photo": "gif",
+  "list": [
+    {
+      "name": "Aesthetic",
+      "name_vi": "Thẩm mỹ",
+      "folder": "Aesthetic",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 51
+    },
+    {
+      "name": "Pink",
+      "name_vi": "Màu Hồng",
+      "folder": "Pink",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 51
+    },
+    {
+      "name": "Text2",
+      "name_vi": "Văn bản",
+      "folder": "Text2",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 20
+    },
+ {
+      "name": "Emoji",
+      "name_vi": "Cảm xúc",
+      "folder": "Emoji",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 30
+    },
+     {
+      "name": "Text3",
+      "name_vi": "Văn bản",
+      "folder": "Text3",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 35
+    },
+   {
+      "name": "Love",
+      "name_vi": "Tình yêu",
+      "folder": "Love",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 50
+    },
+    {
+      "name": "CutePlush",
+      "name_vi": "Dễ thương",
+      "folder": "CutePlush",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Butterfly3",
+      "name_vi": "Bươm bướm",
+      "folder": "Butterfly3",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 44
+    },
+    {
+      "name": "Text5",
+      "name_vi": "Văn bản",
+      "folder": "Text5",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Purple",
+      "name_vi": "Màu tía",
+      "folder": "Purple",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 15
+    },
+    {
+      "name": "Chill",
+      "name_vi": "Chill",
+      "folder": "Chill",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Heart",
+      "name_vi": "Trái tim",
+      "folder": "Heart",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 36
+    },
+    {
+      "name": "Cute 2",
+      "name_vi": "Dễ thương",
+      "folder": "Cute 2",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 17
+    },
+    {
+      "name": "Text",
+      "name_vi": "Văn bản",
+      "folder": "Text",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 50
+    },
+    {
+      "name": "Star",
+      "name_vi": "Ngôi sao",
+      "folder": "Star",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Cute 3",
+      "name_vi": "Dễ thương",
+      "folder": "Cute 3",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 20
+    },
+    {
+      "name": "Mask",
+      "name_vi": "Mặt lạ",
+      "folder": "Mask",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 51
+    },
+    {
+      "name": "Cute 4",
+      "name_vi": "Dễ thương",
+      "folder": "Cute 4",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 20
+    },
+    {
+      "name": "Bear",
+      "name_vi": "Thẩm mỹ",
+      "folder": "Bear",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 15
+    },
+    {
+      "name": "Noel Cute",
+      "name_vi": "Noel Cute",
+      "folder": "NoelCute",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 20
+    },
+    {
+      "name": "Leaf",
+      "name_vi": "Lá",
+      "folder": "Leaf",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 19
+    },
+    {
+      "name": "Shape",
+      "name_vi": "Hình dạng",
+      "folder": "Shape",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 20
+    },
+    {
+      "name": "Effect",
+      "name_vi": "Hiệu ứng",
+      "folder": "Effect",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 62
+    },
+    {
+      "name": "Love1",
+      "name_vi": "Tình yêu",
+      "folder": "Love1",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "WaterColor1",
+      "name_vi": "Văn bản",
+      "folder": "WaterColor1",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "WaterColor2",
+      "name_vi": "Văn bản",
+      "folder": "WaterColor2",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Vintage1",
+      "name_vi": "Văn bản",
+      "folder": "Vintage1",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Vintage2",
+      "name_vi": "Văn bản",
+      "folder": "Vintage2",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+ {
+      "name": "Text4",
+      "name_vi": "Văn bản",
+      "folder": "Text4",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+  
+    {
+      "name": "Panda",
+      "name_vi": "Gấu trúc",
+      "folder": "Panda",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Text6",
+      "name_vi": "Văn bản",
+      "folder": "Text6",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Game",
+      "name_vi": "Game",
+      "folder": "Game",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "DayCute",
+      "name_vi": "Dễ thương",
+      "folder": "DayCute",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Cute5",
+      "name_vi": "Dễ thương",
+      "folder": "Cute5",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Cute6",
+      "name_vi": "Dễ thương",
+      "folder": "Cute6",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Cute7",
+      "name_vi": "Dễ thương",
+      "folder": "Cute7",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Cute8",
+      "name_vi": "Dễ thương",
+      "folder": "Cute8",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Cat1",
+      "name_vi": "Con mèo",
+      "folder": "Cat1",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Cat2",
+      "name_vi": "Con mèo",
+      "folder": "Cat2",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },
+    {
+      "name": "Chill2",
+      "name_vi": "Chill",
+      "folder": "Chill2",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 20
+    },{
+      "name": "Cute",
+      "name_vi": "Dễ thương",
+      "folder": "Cute",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 30
+    },
+    {
+      "name": "Heart3",
+      "name_vi": "Trái tim",
+      "folder": "Heart3",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 20
+    },
+    {
+      "name": "Leaf2",
+      "name_vi": "Lá cây",
+      "folder": "Leaf2",
+      "cover": "icon.png",
+      "mode": "",
+      "totalImage": 20
+    },
+    {
+      "name": "Film",
+      "name_vi": "Film",
+      "folder": "Film",
+      "cover": "icon.png",
+      "mode": "Image",
+      "totalImage": 40
+    }
+  ]
+}

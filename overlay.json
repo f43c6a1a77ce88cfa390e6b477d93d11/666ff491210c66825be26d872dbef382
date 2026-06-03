@@ -1,0 +1,152 @@
+{
+  "start_url": "https://raw.githubusercontent.com/NgUyenNgOcKhAnH1190/6996f6bca16b514a97cd520ab909257a/refs/heads/main/",
+  "end_url": "",
+  "root_folder": "Video/Overlay/",
+  "center_url_cover": "Video/Overlay/Bubble/Cover/1.jpg",
+  "center_url_download": "Video/Overlay/Bubble/1.jpg",
+  "type_photo": "jpg",
+  "list": [
+    {
+      "name": "Bubble",
+      "name_vi": "Bong bóng",
+      "folder": "Bubble",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Flower",
+      "name_vi": "Hoa",
+      "folder": "Flower",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Leaf",
+      "name_vi": "Lá",
+      "folder": "Leaf",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Light",
+      "name_vi": "Lấp lánh",
+      "folder": "Light",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Shape",
+      "name_vi": "Hình",
+      "folder": "Shape",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Star",
+      "name_vi": "Ngôi sao",
+      "folder": "Star",
+      "cover": "Cover",
+      "totalImage": 20
+    }
+
+    ,
+    {
+      "name": "3D",
+      "name_vi": "3D",
+      "folder": "3d",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Animal",
+      "name_vi": "Động vật",
+      "folder": "Animal",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Candy",
+      "name_vi": "Kẹo ngọt",
+      "folder": "Candy",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Christmas",
+      "name_vi": "Giáng sinh",
+      "folder": "Christmas",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Confetti",
+      "name_vi": "Pháo giấy",
+      "folder": "Cofetti",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Feather",
+      "name_vi": "Lông vũ",
+      "folder": "Feather",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Food",
+      "name_vi": "Đồ ăn",
+      "folder": "Food",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Fruit",
+      "name_vi": "Quả",
+      "folder": "Fruit",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Halloween",
+      "name_vi": "Halloween",
+      "folder": "Halloween",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Heart",
+      "name_vi": "Trái tim",
+      "folder": "Heart",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Money",
+      "name_vi": "Tiền",
+      "folder": "Money",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Music",
+      "name_vi": "Nhạc",
+      "folder": "Music",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Planet",
+      "name_vi": "Hành tinh",
+      "folder": "Planet",
+      "cover": "Cover",
+      "totalImage": 20
+    },
+    {
+      "name": "Snow",
+      "name_vi": "Tuyết",
+      "folder": "Snow",
+      "cover": "Cover",
+      "totalImage": 20
+    }
+  ]
+}

@@ -1,0 +1,3269 @@
+{
+  "start_url": "https://raw.githubusercontent.com/NgUyenNgOcKhAnH1190/18d6769919266cd0bd6cd78aa405d5d0/refs/heads/main/",
+  "end_url": "",
+  "root_folder": "SoundEffect/",
+  "list_genre_en": [
+    "Animal",
+    "BGM",
+    "Cartoon",
+    "Cooking",
+    "Fight",
+    "Laugh",
+    "Magic",
+    "Musical",
+    "Performance",
+    "Transition"
+  ],
+  "list_genre_vi": [
+    "Động vật",
+    "BGM",
+    "Phim hoạt hình",
+    "Cooking",
+    "Fight",
+    "Tiếng cười",
+    "Ma thuật",
+    "Âm nhạc",
+    "Màn biểu diễn",
+    "Chuyển tiếp"
+  ],
+  "list_mood_en": [
+    "Bright",
+    "Calm",
+    "Funky",
+    "Happy",
+    "Inspirational",
+    "Romantic"
+  ],
+  "list_mood_vi": [
+    "Tươi sáng",
+    "Êm dịu",
+    "Sôi nổi",
+    "Vui vẻ",
+    "Truyền cảm hứng",
+    "Lãng mạn"
+  ],
+  "data": {
+    "list_genre": [
+      {
+        "genre_name_en": "Animal",
+        "genre_name_vi": "Động vật",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 32,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "beast grunt.mp3",
+                "audio_name": "beast grunt",
+                "audio_url": "Animal/Bright/beast grunt.mp3",
+                "duration": 2377,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Beast Roar.mp3",
+                "audio_name": "Beast Roar",
+                "audio_url": "Animal/Bright/Beast Roar.mp3",
+                "duration": 3056,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Birds 1.mp3",
+                "audio_name": "Birds 1",
+                "audio_url": "Animal/Bright/Birds 1.mp3",
+                "duration": 10553,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Birds 2.mp3",
+                "audio_name": "Birds 2",
+                "audio_url": "Animal/Bright/Birds 2.mp3",
+                "duration": 96914,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Bear Laughing.mp3",
+                "audio_name": "Cartoon Bear Laughing",
+                "audio_url": "Animal/Bright/Cartoon Bear Laughing.mp3",
+                "duration": 6348,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Dog 1.mp3",
+                "audio_name": "Cartoon Dog 1",
+                "audio_url": "Animal/Bright/Cartoon Dog 1.mp3",
+                "duration": 3736,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Dog 4.mp3",
+                "audio_name": "Cartoon Dog 4",
+                "audio_url": "Animal/Bright/Cartoon Dog 4.mp3",
+                "duration": 2351,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Dog Barks 3.mp3",
+                "audio_name": "Cartoon Dog Barks 3",
+                "audio_url": "Animal/Bright/Cartoon Dog Barks 3.mp3",
+                "duration": 1750,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "cartoon duck no.mp3",
+                "audio_name": "cartoon duck no",
+                "audio_url": "Animal/Bright/cartoon duck no.mp3",
+                "duration": 522,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "cartoon lonely cat 1.mp3",
+                "audio_name": "cartoon lonely cat 1",
+                "audio_url": "Animal/Bright/cartoon lonely cat 1.mp3",
+                "duration": 1437,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "cartoon lonely cat 2.mp3",
+                "audio_name": "cartoon lonely cat 2",
+                "audio_url": "Animal/Bright/cartoon lonely cat 2.mp3",
+                "duration": 1202,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Monkey.mp3",
+                "audio_name": "Cartoon Monkey",
+                "audio_url": "Animal/Bright/Cartoon Monkey.mp3",
+                "duration": 2900,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cat Meowing.mp3",
+                "audio_name": "Cat Meowing",
+                "audio_url": "Animal/Bright/Cat Meowing.mp3",
+                "duration": 3056,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CatMeowsClosePersp PE022501.mp3",
+                "audio_name": "CatMeowsClosePersp PE022501",
+                "audio_url": "Animal/Bright/CatMeowsClosePersp PE022501.mp3",
+                "duration": 9091,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CatMeow_BW.1981.mp3",
+                "audio_name": "CatMeow_BW.1981",
+                "audio_url": "Animal/Bright/CatMeow_BW.1981.mp3",
+                "duration": 1228,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CatYowlsSpits SS021406.mp3",
+                "audio_name": "CatYowlsSpits SS021406",
+                "audio_url": "Animal/Bright/CatYowlsSpits SS021406.mp3",
+                "duration": 1855,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cat_Whining_49.mp3",
+                "audio_name": "Cat_Whining_49",
+                "audio_url": "Animal/Bright/Cat_Whining_49.mp3",
+                "duration": 1358,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Chicken 1.mp3",
+                "audio_name": "Chicken 1",
+                "audio_url": "Animal/Bright/Chicken 1.mp3",
+                "duration": 6269,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Chicken.mp3",
+                "audio_name": "Chicken",
+                "audio_url": "Animal/Bright/Chicken.mp3",
+                "duration": 7340,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Dog Barking.mp3",
+                "audio_name": "Dog Barking",
+                "audio_url": "Animal/Bright/Dog Barking.mp3",
+                "duration": 3056,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Dog Growling.mp3",
+                "audio_name": "Dog Growling",
+                "audio_url": "Animal/Bright/Dog Growling.mp3",
+                "duration": 4362,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Dog.mp3",
+                "audio_name": "Dog",
+                "audio_url": "Animal/Bright/Dog.mp3",
+                "duration": 2090,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Duck 1.mp3",
+                "audio_name": "Duck 1",
+                "audio_url": "Animal/Bright/Duck 1.mp3",
+                "duration": 3944,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Duck 2.mp3",
+                "audio_name": "Duck 2",
+                "audio_url": "Animal/Bright/Duck 2.mp3",
+                "duration": 1959,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Duck.mp3",
+                "audio_name": "Duck",
+                "audio_url": "Animal/Bright/Duck.mp3",
+                "duration": 5329,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Lion Roar.mp3",
+                "audio_name": "Lion Roar",
+                "audio_url": "Animal/Bright/Lion Roar.mp3",
+                "duration": 4206,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "LionBreathsGrowl AT014903.mp3",
+                "audio_name": "LionBreathsGrowl AT014903",
+                "audio_url": "Animal/Bright/LionBreathsGrowl AT014903.mp3",
+                "duration": 11494,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "LionRoarHeavySnarl AT013701.mp3",
+                "audio_name": "LionRoarHeavySnarl AT013701",
+                "audio_url": "Animal/Bright/LionRoarHeavySnarl AT013701.mp3",
+                "duration": 9613,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Mouse 1.mp3",
+                "audio_name": "Mouse 1",
+                "audio_url": "Animal/Bright/Mouse 1.mp3",
+                "duration": 366,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Mouse 2.mp3",
+                "audio_name": "Mouse 2",
+                "audio_url": "Animal/Bright/Mouse 2.mp3",
+                "duration": 496,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Sheep.mp3",
+                "audio_name": "Sheep",
+                "audio_url": "Animal/Bright/Sheep.mp3",
+                "duration": 7471,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "SheepBleatSingleCl AT048501.mp3",
+                "audio_name": "SheepBleatSingleCl AT048501",
+                "audio_url": "Animal/Bright/SheepBleatSingleCl AT048501.mp3",
+                "duration": 6740,
+                "music_genre": "Animal",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "BGM",
+        "genre_name_vi": "BGM",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 30,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "03505 vinyl record crackling-full.mp3",
+                "audio_name": "03505 vinyl record crackling-full",
+                "audio_url": "BGM/Bright/03505 vinyl record crackling-full.mp3",
+                "duration": 15073,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "340918_AVISHAY_ROZEN-THE_LIGHTS_Drums_162_bpm_Db.01_m_LOOP_3_normal.mp3",
+                "audio_name": "340918_AVISHAY_ROZEN-THE_LIGHTS_Drums_162_bpm_Db.01_m_LOOP_3_normal",
+                "audio_url": "BGM/Bright/340918_AVISHAY_ROZEN-THE_LIGHTS_Drums_162_bpm_Db.01_m_LOOP_3_normal.mp3",
+                "duration": 3082,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "585301_Americana_-_Lap_Steel_and_Bass,_Suspended_Transition_-_MASTERED_normal.mp3",
+                "audio_name": "585301_Americana_-_Lap_Steel_and_Bass,_Suspended_Transition_-_MASTERED_normal",
+                "audio_url": "BGM/Bright/585301_Americana_-_Lap_Steel_and_Bass,_Suspended_Transition_-_MASTERED_normal.mp3",
+                "duration": 7811,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cinematic Trailer.mp3",
+                "audio_name": "Cinematic Trailer",
+                "audio_url": "BGM/Bright/Cinematic Trailer.mp3",
+                "duration": 149316,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "city-background-ambience-01.mp3",
+                "audio_name": "city-background-ambience-01",
+                "audio_url": "BGM/Bright/city-background-ambience-01.mp3",
+                "duration": 180219,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Dream_Background_ODY-0360-053.mp3",
+                "audio_name": "Dream_Background_ODY-0360-053",
+                "audio_url": "BGM/Bright/Dream_Background_ODY-0360-053.mp3",
+                "duration": 56607,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Dream_Background_ODY-0360-054.mp3",
+                "audio_name": "Dream_Background_ODY-0360-054",
+                "audio_url": "BGM/Bright/Dream_Background_ODY-0360-054.mp3",
+                "duration": 14550,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Emotional.mp3",
+                "audio_name": "Emotional",
+                "audio_url": "BGM/Bright/Emotional.mp3",
+                "duration": 134165,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Factory Background.mp3",
+                "audio_name": "Factory Background",
+                "audio_url": "BGM/Bright/Factory Background.mp3",
+                "duration": 39027,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "For EDM Party.mp3",
+                "audio_name": "For EDM Party",
+                "audio_url": "BGM/Bright/For EDM Party.mp3",
+                "duration": 131239,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Forest Background Loop.mp3",
+                "audio_name": "Forest Background Loop",
+                "audio_url": "BGM/Bright/Forest Background Loop.mp3",
+                "duration": 96366,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Happy Birthday Bossanova - E_s Jammy Jams.mp3",
+                "audio_name": "Happy Birthday Bossanova - E_s Jammy Jams",
+                "audio_url": "BGM/Bright/Happy Birthday Bossanova - E_s Jammy Jams.mp3",
+                "duration": 181499,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "metal construction background.mp3",
+                "audio_name": "metal construction background",
+                "audio_url": "BGM/Bright/metal construction background.mp3",
+                "duration": 95687,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MGM - Party.mp3",
+                "audio_name": "MGM - Party",
+                "audio_url": "BGM/Bright/MGM - Party.mp3",
+                "duration": 147278,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Mountain Audio - Dark Cinematic Background.mp3",
+                "audio_name": "Mountain Audio - Dark Cinematic Background",
+                "audio_url": "BGM/Bright/Mountain Audio - Dark Cinematic Background.mp3",
+                "duration": 82077,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "My Story.mp3",
+                "audio_name": "My Story",
+                "audio_url": "BGM/Bright/My Story.mp3",
+                "duration": 131814,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Outer Space Background.mp3",
+                "audio_name": "Outer Space Background",
+                "audio_url": "BGM/Bright/Outer Space Background.mp3",
+                "duration": 124891,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Percussion.mp3",
+                "audio_name": "Percussion",
+                "audio_url": "BGM/Bright/Percussion.mp3",
+                "duration": 47073,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Piano Melodies.mp3",
+                "audio_name": "Piano Melodies",
+                "audio_url": "BGM/Bright/Piano Melodies.mp3",
+                "duration": 165982,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Psycho Background Whooshes.mp3",
+                "audio_name": "Psycho Background Whooshes",
+                "audio_url": "BGM/Bright/Psycho Background Whooshes.mp3",
+                "duration": 46263,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "RelaxingBreeze_96_Ending.mp3",
+                "audio_name": "RelaxingBreeze_96_Ending",
+                "audio_url": "BGM/Bright/RelaxingBreeze_96_Ending.mp3",
+                "duration": 183667,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Ringing Ambient Background.mp3",
+                "audio_name": "Ringing Ambient Background",
+                "audio_url": "BGM/Bright/Ringing Ambient Background.mp3",
+                "duration": 213969,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Romantic Wedding.mp3",
+                "audio_name": "Romantic Wedding",
+                "audio_url": "BGM/Bright/Romantic Wedding.mp3",
+                "duration": 147096,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Romantic.mp3",
+                "audio_name": "Romantic",
+                "audio_url": "BGM/Bright/Romantic.mp3",
+                "duration": 130064,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Sad Piano Background (short edit).mp3",
+                "audio_name": "Sad Piano Background (short edit)",
+                "audio_url": "BGM/Bright/Sad Piano Background (short edit).mp3",
+                "duration": 88451,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Sci-Fi_Background_ODY-0088-35.mp3",
+                "audio_name": "Sci-Fi_Background_ODY-0088-35",
+                "audio_url": "BGM/Bright/Sci-Fi_Background_ODY-0088-35.mp3",
+                "duration": 69355,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Slow Emotional Part 2 60.mp3",
+                "audio_name": "Slow Emotional Part 2 60",
+                "audio_url": "BGM/Bright/Slow Emotional Part 2 60.mp3",
+                "duration": 67997,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Smokey_s Lounge - TrackTribe.mp3",
+                "audio_name": "Smokey_s Lounge - TrackTribe",
+                "audio_url": "BGM/Bright/Smokey_s Lounge - TrackTribe.mp3",
+                "duration": 184503,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "The Relaxing.mp3",
+                "audio_name": "The Relaxing",
+                "audio_url": "BGM/Bright/The Relaxing.mp3",
+                "duration": 213812,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Trendy Hip Hop.mp3",
+                "audio_name": "Trendy Hip Hop",
+                "audio_url": "BGM/Bright/Trendy Hip Hop.mp3",
+                "duration": 145711,
+                "music_genre": "BGM",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "Cartoon",
+        "genre_name_vi": "Phim hoạt hình",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 30,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "1.Cartoon Music.mp3",
+                "audio_name": "1.Cartoon Music",
+                "audio_url": "Cartoon/Bright/1.Cartoon Music.mp3",
+                "duration": 57208,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "1.Quirky Cartoon.mp3",
+                "audio_name": "1.Quirky Cartoon",
+                "audio_url": "Cartoon/Bright/1.Quirky Cartoon.mp3",
+                "duration": 54909,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "1.The Cartoon_mp3.mp3",
+                "audio_name": "1.The Cartoon_mp3",
+                "audio_url": "Cartoon/Bright/1.The Cartoon_mp3.mp3",
+                "duration": 55876,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "1.This is Cartoon.mp3",
+                "audio_name": "1.This is Cartoon",
+                "audio_url": "Cartoon/Bright/1.This is Cartoon.mp3",
+                "duration": 57548,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon 1.mp3",
+                "audio_name": "Cartoon 1",
+                "audio_url": "Cartoon/Bright/Cartoon 1.mp3",
+                "duration": 72725,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "cartoon 2.mp3",
+                "audio_name": "cartoon 2",
+                "audio_url": "Cartoon/Bright/cartoon 2.mp3",
+                "duration": 29414,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon 3.mp3",
+                "audio_name": "Cartoon 3",
+                "audio_url": "Cartoon/Bright/Cartoon 3.mp3",
+                "duration": 143673,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Adventures.mp3",
+                "audio_name": "Cartoon Adventures",
+                "audio_url": "Cartoon/Bright/Cartoon Adventures.mp3",
+                "duration": 71158,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Fairy Ident.mp3",
+                "audio_name": "Cartoon Fairy Ident",
+                "audio_url": "Cartoon/Bright/Cartoon Fairy Ident.mp3",
+                "duration": 21891,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon full 110.mp3",
+                "audio_name": "Cartoon full 110",
+                "audio_url": "Cartoon/Bright/Cartoon full 110.mp3",
+                "duration": 128888,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Full Track.mp3",
+                "audio_name": "Cartoon Full Track",
+                "audio_url": "Cartoon/Bright/Cartoon Full Track.mp3",
+                "duration": 78106,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Full.mp3",
+                "audio_name": "Cartoon Full",
+                "audio_url": "Cartoon/Bright/Cartoon Full.mp3",
+                "duration": 100127,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Logo.mp3",
+                "audio_name": "Cartoon Logo",
+                "audio_url": "Cartoon/Bright/Cartoon Logo.mp3",
+                "duration": 9561,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon March only Orchestral Drums Version.mp3",
+                "audio_name": "Cartoon March only Orchestral Drums Version",
+                "audio_url": "Cartoon/Bright/Cartoon March only Orchestral Drums Version.mp3",
+                "duration": 120137,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon March.mp3",
+                "audio_name": "Cartoon March",
+                "audio_url": "Cartoon/Bright/Cartoon March.mp3",
+                "duration": 120163,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Stories.mp3",
+                "audio_name": "Cartoon Stories",
+                "audio_url": "Cartoon/Bright/Cartoon Stories.mp3",
+                "duration": 57443,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Story 1.mp3",
+                "audio_name": "Cartoon Story 1",
+                "audio_url": "Cartoon/Bright/Cartoon Story 1.mp3",
+                "duration": 38374,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Tales.mp3",
+                "audio_name": "Cartoon Tales",
+                "audio_url": "Cartoon/Bright/Cartoon Tales.mp3",
+                "duration": 34090,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "cartoonend.mp3",
+                "audio_name": "cartoonend",
+                "audio_url": "Cartoon/Bright/cartoonend.mp3",
+                "duration": 3265,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Comedy Cartoon Fun.mp3",
+                "audio_name": "Comedy Cartoon Fun",
+                "audio_url": "Cartoon/Bright/Comedy Cartoon Fun.mp3",
+                "duration": 78498,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Comedy Cartoon.mp3",
+                "audio_name": "Comedy Cartoon",
+                "audio_url": "Cartoon/Bright/Comedy Cartoon.mp3",
+                "duration": 81476,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Dark Cartoon.mp3",
+                "audio_name": "Dark Cartoon",
+                "audio_url": "Cartoon/Bright/Dark Cartoon.mp3",
+                "duration": 70165,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Evil Mysterious Cartoon Ident.mp3",
+                "audio_name": "Evil Mysterious Cartoon Ident",
+                "audio_url": "Cartoon/Bright/Evil Mysterious Cartoon Ident.mp3",
+                "duration": 25104,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Fairy Cartoon Intro.mp3",
+                "audio_name": "Fairy Cartoon Intro",
+                "audio_url": "Cartoon/Bright/Fairy Cartoon Intro.mp3",
+                "duration": 15856,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Full Track.mp3",
+                "audio_name": "Full Track",
+                "audio_url": "Cartoon/Bright/Full Track.mp3",
+                "duration": 150909,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Funny Cartoon.mp3",
+                "audio_name": "Funny Cartoon",
+                "audio_url": "Cartoon/Bright/Funny Cartoon.mp3",
+                "duration": 122906,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Funny Main.mp3",
+                "audio_name": "Funny Main",
+                "audio_url": "Cartoon/Bright/Funny Main.mp3",
+                "duration": 83069,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Halloween cartoon.mp3",
+                "audio_name": "Halloween cartoon",
+                "audio_url": "Cartoon/Bright/Halloween cartoon.mp3",
+                "duration": 18312,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Retro Cartoon Show.mp3",
+                "audio_name": "Retro Cartoon Show",
+                "audio_url": "Cartoon/Bright/Retro Cartoon Show.mp3",
+                "duration": 78994,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "The Funny.mp3",
+                "audio_name": "The Funny",
+                "audio_url": "Cartoon/Bright/The Funny.mp3",
+                "duration": 60970,
+                "music_genre": "Cartoon",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "Cooking",
+        "genre_name_vi": "Cooking",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 30,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "Boiling Soup.mp3",
+                "audio_name": "Boiling Soup",
+                "audio_url": "Cooking/Bright/Boiling Soup.mp3",
+                "duration": 12696,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Bottle_Can_Drop_Rocking_Glass_Constant_OCP-1050-10.mp3",
+                "audio_name": "Bottle_Can_Drop_Rocking_Glass_Constant_OCP-1050-10",
+                "audio_url": "Cooking/Bright/Bottle_Can_Drop_Rocking_Glass_Constant_OCP-1050-10.mp3",
+                "duration": 14080,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CanBeerSodaOpening PE972902.mp3",
+                "audio_name": "CanBeerSodaOpening PE972902",
+                "audio_url": "Cooking/Bright/CanBeerSodaOpening PE972902.mp3",
+                "duration": 1489,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "ChewWatermelon_BW.15766.mp3",
+                "audio_name": "ChewWatermelon_BW.15766",
+                "audio_url": "Cooking/Bright/ChewWatermelon_BW.15766.mp3",
+                "duration": 5146,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cooking Soup 1.mp3",
+                "audio_name": "Cooking Soup 1",
+                "audio_url": "Cooking/Bright/Cooking Soup 1.mp3",
+                "duration": 59768,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cooking Soup.mp3",
+                "audio_name": "Cooking Soup",
+                "audio_url": "Cooking/Bright/Cooking Soup.mp3",
+                "duration": 25496,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "deep-frying-food.mp3",
+                "audio_name": "deep-frying-food",
+                "audio_url": "Cooking/Bright/deep-frying-food.mp3",
+                "duration": 125257,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Drink.mp3",
+                "audio_name": "Drink",
+                "audio_url": "Cooking/Bright/Drink.mp3",
+                "duration": 6557,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Drinking Soda.mp3",
+                "audio_name": "Drinking Soda",
+                "audio_url": "Cooking/Bright/Drinking Soda.mp3",
+                "duration": 22126,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Eating Carrot 1.mp3",
+                "audio_name": "Eating Carrot 1",
+                "audio_url": "Cooking/Bright/Eating Carrot 1.mp3",
+                "duration": 2560,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Eating Nuts.mp3",
+                "audio_name": "Eating Nuts",
+                "audio_url": "Cooking/Bright/Eating Nuts.mp3",
+                "duration": 6949,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "eating-apple.mp3",
+                "audio_name": "eating-apple",
+                "audio_url": "Cooking/Bright/eating-apple.mp3",
+                "duration": 6374,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "FryingEggs_V1.mp3",
+                "audio_name": "FryingEggs_V1",
+                "audio_url": "Cooking/Bright/FryingEggs_V1.mp3",
+                "duration": 49763,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "GlassClinking 2014_43_4.mp3",
+                "audio_name": "GlassClinking 2014_43_4",
+                "audio_url": "Cooking/Bright/GlassClinking 2014_43_4.mp3",
+                "duration": 1515,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "HUMAN-HICCUP_GEN-HDF-15129.mp3",
+                "audio_name": "HUMAN-HICCUP_GEN-HDF-15129",
+                "audio_url": "Cooking/Bright/HUMAN-HICCUP_GEN-HDF-15129.mp3",
+                "duration": 366,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "HumanEating 6032_12_1.mp3",
+                "audio_name": "HumanEating 6032_12_1",
+                "audio_url": "Cooking/Bright/HumanEating 6032_12_1.mp3",
+                "duration": 914,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Knife Slicing Vegetables.mp3",
+                "audio_name": "Knife Slicing Vegetables",
+                "audio_url": "Cooking/Bright/Knife Slicing Vegetables.mp3",
+                "duration": 11494,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "LG_Sound - Pouring Soda (Mp3).mp3",
+                "audio_name": "LG_Sound - Pouring Soda (Mp3)",
+                "audio_url": "Cooking/Bright/LG_Sound - Pouring Soda (Mp3).mp3",
+                "duration": 9639,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Licking Lips for Delicious Food v1.mp3",
+                "audio_name": "Licking Lips for Delicious Food v1",
+                "audio_url": "Cooking/Bright/Licking Lips for Delicious Food v1.mp3",
+                "duration": 1097,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MeatSizzleStartSiz BB011301.mp3",
+                "audio_name": "MeatSizzleStartSiz BB011301",
+                "audio_url": "Cooking/Bright/MeatSizzleStartSiz BB011301.mp3",
+                "duration": 7811,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Mountain Audio - Can Opening.mp3",
+                "audio_name": "Mountain Audio - Can Opening",
+                "audio_url": "Cooking/Bright/Mountain Audio - Can Opening.mp3",
+                "duration": 1437,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Mountain Audio - Eating a Cookie.mp3",
+                "audio_name": "Mountain Audio - Eating a Cookie",
+                "audio_url": "Cooking/Bright/Mountain Audio - Eating a Cookie.mp3",
+                "duration": 3631,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Mountain Audio - Potato Chips Eating.mp3",
+                "audio_name": "Mountain Audio - Potato Chips Eating",
+                "audio_url": "Cooking/Bright/Mountain Audio - Potato Chips Eating.mp3",
+                "duration": 8229,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Mountain Audio - Wine Glasses Clinking - Sound (1).mp3",
+                "audio_name": "Mountain Audio - Wine Glasses Clinking - Sound (1)",
+                "audio_url": "Cooking/Bright/Mountain Audio - Wine Glasses Clinking - Sound (1).mp3",
+                "duration": 1829,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Nose Sniff.mp3",
+                "audio_name": "Nose Sniff",
+                "audio_url": "Cooking/Bright/Nose Sniff.mp3",
+                "duration": 2273,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Porridge Cooking.mp3",
+                "audio_name": "Porridge Cooking",
+                "audio_url": "Cooking/Bright/Porridge Cooking.mp3",
+                "duration": 46080,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Sip Drink 1.mp3",
+                "audio_name": "Sip Drink 1",
+                "audio_url": "Cooking/Bright/Sip Drink 1.mp3",
+                "duration": 1567,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "slurping.mp3",
+                "audio_name": "slurping",
+                "audio_url": "Cooking/Bright/slurping.mp3",
+                "duration": 3056,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Tea Pot Pouring 01.mp3",
+                "audio_name": "Tea Pot Pouring 01",
+                "audio_url": "Cooking/Bright/Tea Pot Pouring 01.mp3",
+                "duration": 13923,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "TomatoSauce_yFlbs_01.mp3",
+                "audio_name": "TomatoSauce_yFlbs_01",
+                "audio_url": "Cooking/Bright/TomatoSauce_yFlbs_01.mp3",
+                "duration": 6400,
+                "music_genre": "Cooking",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "Fight",
+        "genre_name_vi": "Fight",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 31,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "33 BATTLE-MILITARY_GEN-HDF-03137.mp3",
+                "audio_name": "33 BATTLE-MILITARY_GEN-HDF-03137",
+                "audio_url": "Fight/Bright/33 BATTLE-MILITARY_GEN-HDF-03137.mp3",
+                "duration": 11598,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Artillery_Explosion_ODC-0020-313.mp3",
+                "audio_name": "Artillery_Explosion_ODC-0020-313",
+                "audio_url": "Fight/Bright/Artillery_Explosion_ODC-0020-313.mp3",
+                "duration": 6531,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Battle.mp3",
+                "audio_name": "Battle",
+                "audio_url": "Fight/Bright/Battle.mp3",
+                "duration": 76121,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Battle_Game_Explosion_Grenade_Close_4_Big_Hit_Bomb_Explode_Feiry.mp3",
+                "audio_name": "Battle_Game_Explosion_Grenade_Close_4_Big_Hit_Bomb_Explode_Feiry",
+                "audio_url": "Fight/Bright/Battle_Game_Explosion_Grenade_Close_4_Big_Hit_Bomb_Explode_Feiry.mp3",
+                "duration": 4389,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Big Explosion 01.mp3",
+                "audio_name": "Big Explosion 01",
+                "audio_url": "Fight/Bright/Big Explosion 01.mp3",
+                "duration": 5068,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Bullets_Ricochet_ODY-1239-035.mp3",
+                "audio_name": "Bullets_Ricochet_ODY-1239-035",
+                "audio_url": "Fight/Bright/Bullets_Ricochet_ODY-1239-035.mp3",
+                "duration": 8960,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "cut knife paper.mp3",
+                "audio_name": "cut knife paper",
+                "audio_url": "Fight/Bright/cut knife paper.mp3",
+                "duration": 575,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "DAGGER_WHOOSH.mp3",
+                "audio_name": "DAGGER_WHOOSH",
+                "audio_url": "Fight/Bright/DAGGER_WHOOSH.mp3",
+                "duration": 340,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "ElectKnifeCutting PE1042203.mp3",
+                "audio_name": "ElectKnifeCutting PE1042203",
+                "audio_url": "Fight/Bright/ElectKnifeCutting PE1042203.mp3",
+                "duration": 11050,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Electric Chain Saw 1.mp3",
+                "audio_name": "Electric Chain Saw 1",
+                "audio_url": "Fight/Bright/Electric Chain Saw 1.mp3",
+                "duration": 3448,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Electric Chain Saw 2.mp3",
+                "audio_name": "Electric Chain Saw 2",
+                "audio_url": "Fight/Bright/Electric Chain Saw 2.mp3",
+                "duration": 4807,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "EXPLOSION-SMALL_GEN-HDF-10875.mp3",
+                "audio_name": "EXPLOSION-SMALL_GEN-HDF-10875",
+                "audio_url": "Fight/Bright/EXPLOSION-SMALL_GEN-HDF-10875.mp3",
+                "duration": 3814,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Explosion_Nitroglycerin_Big_Explosion_OCP-1189-49.mp3",
+                "audio_name": "Explosion_Nitroglycerin_Big_Explosion_OCP-1189-49",
+                "audio_url": "Fight/Bright/Explosion_Nitroglycerin_Big_Explosion_OCP-1189-49.mp3",
+                "duration": 11076,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "FaceBodyPunchesWet TE027202.mp3",
+                "audio_name": "FaceBodyPunchesWet TE027202",
+                "audio_url": "Fight/Bright/FaceBodyPunchesWet TE027202.mp3",
+                "duration": 470,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Gunfire_Machine_Gun_Reverberant_OCP-1042-37.mp3",
+                "audio_name": "Gunfire_Machine_Gun_Reverberant_OCP-1042-37",
+                "audio_url": "Fight/Bright/Gunfire_Machine_Gun_Reverberant_OCP-1042-37.mp3",
+                "duration": 4336,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Gunshot Echo.mp3",
+                "audio_name": "Gunshot Echo",
+                "audio_url": "Fight/Bright/Gunshot Echo.mp3",
+                "duration": 6113,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Gunshots.mp3",
+                "audio_name": "Gunshots",
+                "audio_url": "Fight/Bright/Gunshots.mp3",
+                "duration": 5303,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Gun_Clip_Load_ODC-0015-044.mp3",
+                "audio_name": "Gun_Clip_Load_ODC-0015-044",
+                "audio_url": "Fight/Bright/Gun_Clip_Load_ODC-0015-044.mp3",
+                "duration": 10083,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Kung Fu Punch.mp3",
+                "audio_name": "Kung Fu Punch",
+                "audio_url": "Fight/Bright/Kung Fu Punch.mp3",
+                "duration": 1411,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Pistol Gun Shot.mp3",
+                "audio_name": "Pistol Gun Shot",
+                "audio_url": "Fight/Bright/Pistol Gun Shot.mp3",
+                "duration": 3814,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "PunchImpact PE358501.mp3",
+                "audio_name": "PunchImpact PE358501",
+                "audio_url": "Fight/Bright/PunchImpact PE358501.mp3",
+                "duration": 7471,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Robot_Impact_Hollow_Metal_Hits_Golf_Club_OCM-0034-154.mp3",
+                "audio_name": "Robot_Impact_Hollow_Metal_Hits_Golf_Club_OCM-0034-154",
+                "audio_url": "Fight/Bright/Robot_Impact_Hollow_Metal_Hits_Golf_Club_OCM-0034-154.mp3",
+                "duration": 7288,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "SciFiBattle 6073_97.mp3",
+                "audio_name": "SciFiBattle 6073_97",
+                "audio_url": "Fight/Bright/SciFiBattle 6073_97.mp3",
+                "duration": 47961,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "smoke bomb 1.mp3",
+                "audio_name": "smoke bomb 1",
+                "audio_url": "Fight/Bright/smoke bomb 1.mp3",
+                "duration": 1306,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Soldiers Marching.mp3",
+                "audio_name": "Soldiers Marching",
+                "audio_url": "Fight/Bright/Soldiers Marching.mp3",
+                "duration": 43964,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Sword Slash A.mp3",
+                "audio_name": "Sword Slash A",
+                "audio_url": "Fight/Bright/Sword Slash A.mp3",
+                "duration": 2064,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Sword Swing And Hits 1.mp3",
+                "audio_name": "Sword Swing And Hits 1",
+                "audio_url": "Fight/Bright/Sword Swing And Hits 1.mp3",
+                "duration": 3370,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "SynthVarious EC05_69_3.mp3",
+                "audio_name": "SynthVarious EC05_69_3",
+                "audio_url": "Fight/Bright/SynthVarious EC05_69_3.mp3",
+                "duration": 7053,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "TankGunExplod GFX012701.mp3",
+                "audio_name": "TankGunExplod GFX012701",
+                "audio_url": "Fight/Bright/TankGunExplod GFX012701.mp3",
+                "duration": 4310,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "WEAPONS_SICKLE_Slash_01.mp3",
+                "audio_name": "WEAPONS_SICKLE_Slash_01",
+                "audio_url": "Fight/Bright/WEAPONS_SICKLE_Slash_01.mp3",
+                "duration": 1149,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "ZapAccents EC09_33_3.mp3",
+                "audio_name": "ZapAccents EC09_33_3",
+                "audio_url": "Fight/Bright/ZapAccents EC09_33_3.mp3",
+                "duration": 967,
+                "music_genre": "Fight",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "Laugh",
+        "genre_name_vi": "Tiếng cười",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 31,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "03067 children laughing.mp3",
+                "audio_name": "03067 children laughing",
+                "audio_url": "Laugh/Bright/03067 children laughing.mp3",
+                "duration": 10266,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "03184 long girls laughter.mp3",
+                "audio_name": "03184 long girls laughter",
+                "audio_url": "Laugh/Bright/03184 long girls laughter.mp3",
+                "duration": 11860,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "11636 boy laughter-full.mp3",
+                "audio_name": "11636 boy laughter-full",
+                "audio_url": "Laugh/Bright/11636 boy laughter-full.mp3",
+                "duration": 1045,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Baby 2012_48.mp3",
+                "audio_name": "Baby 2012_48",
+                "audio_url": "Laugh/Bright/Baby 2012_48.mp3",
+                "duration": 5799,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Baby Laugh Pack 1.mp3",
+                "audio_name": "Baby Laugh Pack 1",
+                "audio_url": "Laugh/Bright/Baby Laugh Pack 1.mp3",
+                "duration": 3709,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Baby Laugh Pack 2.mp3",
+                "audio_name": "Baby Laugh Pack 2",
+                "audio_url": "Laugh/Bright/Baby Laugh Pack 2.mp3",
+                "duration": 3318,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Squirrel Laugh 1.mp3",
+                "audio_name": "Cartoon Squirrel Laugh 1",
+                "audio_url": "Laugh/Bright/Cartoon Squirrel Laugh 1.mp3",
+                "duration": 1776,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "cartoon-mouse-laugh-01.mp3",
+                "audio_name": "cartoon-mouse-laugh-01",
+                "audio_url": "Laugh/Bright/cartoon-mouse-laugh-01.mp3",
+                "duration": 3265,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CartoonLaughter 4003_01_2.mp3",
+                "audio_name": "CartoonLaughter 4003_01_2",
+                "audio_url": "Laugh/Bright/CartoonLaughter 4003_01_2.mp3",
+                "duration": 5016,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Crazy Laugh.mp3",
+                "audio_name": "Crazy Laugh",
+                "audio_url": "Laugh/Bright/Crazy Laugh.mp3",
+                "duration": 7314,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CREATURE_DWARF_Laugh_05.mp3",
+                "audio_name": "CREATURE_DWARF_Laugh_05",
+                "audio_url": "Laugh/Bright/CREATURE_DWARF_Laugh_05.mp3",
+                "duration": 1123,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CrowdLaughter_DIGIVI1-23.mp3",
+                "audio_name": "CrowdLaughter_DIGIVI1-23",
+                "audio_url": "Laugh/Bright/CrowdLaughter_DIGIVI1-23.mp3",
+                "duration": 12434,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Demonic_Laugh_ODY-1185-078.mp3",
+                "audio_name": "Demonic_Laugh_ODY-1185-078",
+                "audio_url": "Laugh/Bright/Demonic_Laugh_ODY-1185-078.mp3",
+                "duration": 19670,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Dragon_Laughing_Laugh.mp3",
+                "audio_name": "Dragon_Laughing_Laugh",
+                "audio_url": "Laugh/Bright/Dragon_Laughing_Laugh.mp3",
+                "duration": 2508,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Dwarf_Laughing_Vocal_Laugh_6.mp3",
+                "audio_name": "Dwarf_Laughing_Vocal_Laugh_6",
+                "audio_url": "Laugh/Bright/Dwarf_Laughing_Vocal_Laugh_6.mp3",
+                "duration": 1097,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Evil Laugh.mp3",
+                "audio_name": "Evil Laugh",
+                "audio_url": "Laugh/Bright/Evil Laugh.mp3",
+                "duration": 4075,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Giant Laugh.mp3",
+                "audio_name": "Giant Laugh",
+                "audio_url": "Laugh/Bright/Giant Laugh.mp3",
+                "duration": 1567,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Girl Laughs Hysterically.mp3",
+                "audio_name": "Girl Laughs Hysterically",
+                "audio_url": "Laugh/Bright/Girl Laughs Hysterically.mp3",
+                "duration": 8464,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Kid Laugh.mp3",
+                "audio_name": "Kid Laugh",
+                "audio_url": "Laugh/Bright/Kid Laugh.mp3",
+                "duration": 8647,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Knight_Laughing_Boisterous_Laugh.mp3",
+                "audio_name": "Knight_Laughing_Boisterous_Laugh",
+                "audio_url": "Laugh/Bright/Knight_Laughing_Boisterous_Laugh.mp3",
+                "duration": 3082,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Knight_Laughing_Explosive_Laugh.mp3",
+                "audio_name": "Knight_Laughing_Explosive_Laugh",
+                "audio_url": "Laugh/Bright/Knight_Laughing_Explosive_Laugh.mp3",
+                "duration": 2534,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Laughing Lunatics.mp3",
+                "audio_name": "Laughing Lunatics",
+                "audio_url": "Laugh/Bright/Laughing Lunatics.mp3",
+                "duration": 25992,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Laughing Witch 1.mp3",
+                "audio_name": "Laughing Witch 1",
+                "audio_url": "Laugh/Bright/Laughing Witch 1.mp3",
+                "duration": 18181,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "LaughterChild 2005_65_1.mp3",
+                "audio_name": "LaughterChild 2005_65_1",
+                "audio_url": "Laugh/Bright/LaughterChild 2005_65_1.mp3",
+                "duration": 9404,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Little Girl Laugh 01.mp3",
+                "audio_name": "Little Girl Laugh 01",
+                "audio_url": "Laugh/Bright/Little Girl Laugh 01.mp3",
+                "duration": 1358,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Little Girl Laugh 03.mp3",
+                "audio_name": "Little Girl Laugh 03",
+                "audio_url": "Laugh/Bright/Little Girl Laugh 03.mp3",
+                "duration": 1306,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "minion laugh.mp3",
+                "audio_name": "minion laugh",
+                "audio_url": "Laugh/Bright/minion laugh.mp3",
+                "duration": 967,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Sinister Laugh 1.mp3",
+                "audio_name": "Sinister Laugh 1",
+                "audio_url": "Laugh/Bright/Sinister Laugh 1.mp3",
+                "duration": 5460,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "toddler-laughing-01.mp3",
+                "audio_name": "toddler-laughing-01",
+                "audio_url": "Laugh/Bright/toddler-laughing-01.mp3",
+                "duration": 8072,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Woman Laughing01.mp3",
+                "audio_name": "Woman Laughing01",
+                "audio_url": "Laugh/Bright/Woman Laughing01.mp3",
+                "duration": 4049,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "woman_laughing_1308.mp3",
+                "audio_name": "woman_laughing_1308",
+                "audio_url": "Laugh/Bright/woman_laughing_1308.mp3",
+                "duration": 5564,
+                "music_genre": "Laugh",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "Magic",
+        "genre_name_vi": "Ma thuật",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 29,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "08238 angels gold bonus.mp3",
+                "audio_name": "08238 angels gold bonus",
+                "audio_url": "Magic/Bright/08238 angels gold bonus.mp3",
+                "duration": 2821,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "14476 gliss up harp magic spell.mp3",
+                "audio_name": "14476 gliss up harp magic spell",
+                "audio_url": "Magic/Bright/14476 gliss up harp magic spell.mp3",
+                "duration": 5198,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Achievement Magical.mp3",
+                "audio_name": "Achievement Magical",
+                "audio_url": "Magic/Bright/Achievement Magical.mp3",
+                "duration": 7131,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Angelic Spell.mp3",
+                "audio_name": "Angelic Spell",
+                "audio_url": "Magic/Bright/Angelic Spell.mp3",
+                "duration": 6687,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Angels 4.mp3",
+                "audio_name": "Angels 4",
+                "audio_url": "Magic/Bright/Angels 4.mp3",
+                "duration": 10789,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Button Magic.mp3",
+                "audio_name": "Button Magic",
+                "audio_url": "Magic/Bright/Button Magic.mp3",
+                "duration": 3683,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Magic.mp3",
+                "audio_name": "Cartoon Magic",
+                "audio_url": "Magic/Bright/Cartoon Magic.mp3",
+                "duration": 7602,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Christmas_Magic_Reveal_Bell_Chime_Ding_Alert_1.mp3",
+                "audio_name": "Christmas_Magic_Reveal_Bell_Chime_Ding_Alert_1",
+                "audio_url": "Magic/Bright/Christmas_Magic_Reveal_Bell_Chime_Ding_Alert_1.mp3",
+                "duration": 2847,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cute Magic Fail.mp3",
+                "audio_name": "Cute Magic Fail",
+                "audio_url": "Magic/Bright/Cute Magic Fail.mp3",
+                "duration": 2038,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Electronic 6039_51_2 REV.mp3",
+                "audio_name": "Electronic 6039_51_2 REV",
+                "audio_url": "Magic/Bright/Electronic 6039_51_2 REV.mp3",
+                "duration": 2011,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Electronic 6039_60_3.mp3",
+                "audio_name": "Electronic 6039_60_3",
+                "audio_url": "Magic/Bright/Electronic 6039_60_3.mp3",
+                "duration": 3291,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Illusion Magic.mp3",
+                "audio_name": "Illusion Magic",
+                "audio_url": "Magic/Bright/Illusion Magic.mp3",
+                "duration": 4127,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magic Appear A.mp3",
+                "audio_name": "Magic Appear A",
+                "audio_url": "Magic/Bright/Magic Appear A.mp3",
+                "duration": 3997,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magic Dust 1.mp3",
+                "audio_name": "Magic Dust 1",
+                "audio_url": "Magic/Bright/Magic Dust 1.mp3",
+                "duration": 6818,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magic Swoosh.mp3",
+                "audio_name": "Magic Swoosh",
+                "audio_url": "Magic/Bright/Magic Swoosh.mp3",
+                "duration": 3474,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magic.mp3",
+                "audio_name": "Magic",
+                "audio_url": "Magic/Bright/Magic.mp3",
+                "duration": 6113,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magical Poof.mp3",
+                "audio_name": "Magical Poof",
+                "audio_url": "Magic/Bright/Magical Poof.mp3",
+                "duration": 5930,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magical Presence.mp3",
+                "audio_name": "Magical Presence",
+                "audio_url": "Magic/Bright/Magical Presence.mp3",
+                "duration": 2011,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magical Reveal.mp3",
+                "audio_name": "Magical Reveal",
+                "audio_url": "Magic/Bright/Magical Reveal.mp3",
+                "duration": 4650,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Misc Game Sounds 94 Cute Laughter With Magic.mp3",
+                "audio_name": "Misc Game Sounds 94 Cute Laughter With Magic",
+                "audio_url": "Magic/Bright/Misc Game Sounds 94 Cute Laughter With Magic.mp3",
+                "duration": 3004,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "OrchestraBellsMagi MA030301.mp3",
+                "audio_name": "OrchestraBellsMagi MA030301",
+                "audio_url": "Magic/Bright/OrchestraBellsMagi MA030301.mp3",
+                "duration": 9117,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Organic Magic.mp3",
+                "audio_name": "Organic Magic",
+                "audio_url": "Magic/Bright/Organic Magic.mp3",
+                "duration": 4963,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Revealing Magic.mp3",
+                "audio_name": "Revealing Magic",
+                "audio_url": "Magic/Bright/Revealing Magic.mp3",
+                "duration": 5146,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Rising Metal Tinkles.mp3",
+                "audio_name": "Rising Metal Tinkles",
+                "audio_url": "Magic/Bright/Rising Metal Tinkles.mp3",
+                "duration": 1358,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Santa_Magic_ODC-0018-574.mp3",
+                "audio_name": "Santa_Magic_ODC-0018-574",
+                "audio_url": "Magic/Bright/Santa_Magic_ODC-0018-574.mp3",
+                "duration": 6922,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Teleportation Magic.mp3",
+                "audio_name": "Teleportation Magic",
+                "audio_url": "Magic/Bright/Teleportation Magic.mp3",
+                "duration": 4075,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "UI_NOTIFICATION_Kalimba_Magic_01.mp3",
+                "audio_name": "UI_NOTIFICATION_Kalimba_Magic_01",
+                "audio_url": "Magic/Bright/UI_NOTIFICATION_Kalimba_Magic_01.mp3",
+                "duration": 3082,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Vintage Magic.mp3",
+                "audio_name": "Vintage Magic",
+                "audio_url": "Magic/Bright/Vintage Magic.mp3",
+                "duration": 1541,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Wand Magical.mp3",
+                "audio_name": "Wand Magical",
+                "audio_url": "Magic/Bright/Wand Magical.mp3",
+                "duration": 2247,
+                "music_genre": "Magic",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "Musical",
+        "genre_name_vi": "Âm nhạc",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 30,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "15579 chimes mixed pass.mp3",
+                "audio_name": "15579 chimes mixed pass",
+                "audio_url": "Musical/Bright/15579 chimes mixed pass.mp3",
+                "duration": 6949,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "AcstcGuitarMinor SDT2057202.mp3",
+                "audio_name": "AcstcGuitarMinor SDT2057202",
+                "audio_url": "Musical/Bright/AcstcGuitarMinor SDT2057202.mp3",
+                "duration": 9587,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "AcstcGuitarSouth SDT2056901.mp3",
+                "audio_name": "AcstcGuitarSouth SDT2056901",
+                "audio_url": "Musical/Bright/AcstcGuitarSouth SDT2056901.mp3",
+                "duration": 8438,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "BluesGuitarShrtS SDT2057801.mp3",
+                "audio_name": "BluesGuitarShrtS SDT2057801",
+                "audio_url": "Musical/Bright/BluesGuitarShrtS SDT2057801.mp3",
+                "duration": 8281,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Brass Tension.mp3",
+                "audio_name": "Brass Tension",
+                "audio_url": "Musical/Bright/Brass Tension.mp3",
+                "duration": 3239,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "cartoon-piano-gliss-down-01.mp3",
+                "audio_name": "cartoon-piano-gliss-down-01",
+                "audio_url": "Musical/Bright/cartoon-piano-gliss-down-01.mp3",
+                "duration": 1567,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Children Saying Happy Birthday.mp3",
+                "audio_name": "Children Saying Happy Birthday",
+                "audio_url": "Musical/Bright/Children Saying Happy Birthday.mp3",
+                "duration": 5956,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Drums Accent.mp3",
+                "audio_name": "Drums Accent",
+                "audio_url": "Musical/Bright/Drums Accent.mp3",
+                "duration": 9300,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Explainer_Video_Positive_Notification_Alert_Win_Rally_Brass_Horn_3_Charge.mp3",
+                "audio_name": "Explainer_Video_Positive_Notification_Alert_Win_Rally_Brass_Horn_3_Charge",
+                "audio_url": "Musical/Bright/Explainer_Video_Positive_Notification_Alert_Win_Rally_Brass_Horn_3_Charge.mp3",
+                "duration": 3422,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "LDj_Audio - Classical Guitar Tuning Check (Mp3).mp3",
+                "audio_name": "LDj_Audio - Classical Guitar Tuning Check (Mp3)",
+                "audio_url": "Musical/Bright/LDj_Audio - Classical Guitar Tuning Check (Mp3).mp3",
+                "duration": 18599,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Military Drum Roll.mp3",
+                "audio_name": "Military Drum Roll",
+                "audio_url": "Musical/Bright/Military Drum Roll.mp3",
+                "duration": 4598,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MusicalEffectGon ELE01_85_3.mp3",
+                "audio_name": "MusicalEffectGon ELE01_85_3",
+                "audio_url": "Musical/Bright/MusicalEffectGon ELE01_85_3.mp3",
+                "duration": 10945,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MusicFanfare SME01_13.1.mp3",
+                "audio_name": "MusicFanfare SME01_13.1",
+                "audio_url": "Musical/Bright/MusicFanfare SME01_13.1.mp3",
+                "duration": 5120,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MusicFx IMA01_53_3.mp3",
+                "audio_name": "MusicFx IMA01_53_3",
+                "audio_url": "Musical/Bright/MusicFx IMA01_53_3.mp3",
+                "duration": 4624,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MusicFx IMA01_78_3.mp3",
+                "audio_name": "MusicFx IMA01_78_3",
+                "audio_url": "Musical/Bright/MusicFx IMA01_78_3.mp3",
+                "duration": 3318,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MusicGuitar_BW.25342.mp3",
+                "audio_name": "MusicGuitar_BW.25342",
+                "audio_url": "Musical/Bright/MusicGuitar_BW.25342.mp3",
+                "duration": 13767,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MusicLogoPianoTin SDT041102.mp3",
+                "audio_name": "MusicLogoPianoTin SDT041102",
+                "audio_url": "Musical/Bright/MusicLogoPianoTin SDT041102.mp3",
+                "duration": 3579,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "MusicPiano_BW.25717.mp3",
+                "audio_name": "MusicPiano_BW.25717",
+                "audio_url": "Musical/Bright/MusicPiano_BW.25717.mp3",
+                "duration": 13322,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "PianoArpeggio_BW.25723.mp3",
+                "audio_name": "PianoArpeggio_BW.25723",
+                "audio_url": "Musical/Bright/PianoArpeggio_BW.25723.mp3",
+                "duration": 8594,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "PianoArpeggio_BW.25726.mp3",
+                "audio_name": "PianoArpeggio_BW.25726",
+                "audio_url": "Musical/Bright/PianoArpeggio_BW.25726.mp3",
+                "duration": 17842,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "PianoDescend_BW.26109.mp3",
+                "audio_name": "PianoDescend_BW.26109",
+                "audio_url": "Musical/Bright/PianoDescend_BW.26109.mp3",
+                "duration": 9378,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "PianoFill_BW.26099.mp3",
+                "audio_name": "PianoFill_BW.26099",
+                "audio_url": "Musical/Bright/PianoFill_BW.26099.mp3",
+                "duration": 10109,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "PianoGliss_BW.26104.mp3",
+                "audio_name": "PianoGliss_BW.26104",
+                "audio_url": "Musical/Bright/PianoGliss_BW.26104.mp3",
+                "duration": 2456,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "SaxophoneCome CTE07_98.1.mp3",
+                "audio_name": "SaxophoneCome CTE07_98.1",
+                "audio_url": "Musical/Bright/SaxophoneCome CTE07_98.1.mp3",
+                "duration": 3762,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Snare Drum Roll01.mp3",
+                "audio_name": "Snare Drum Roll01",
+                "audio_url": "Musical/Bright/Snare Drum Roll01.mp3",
+                "duration": 7732,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "SyntheticDesign EC08_08_1.mp3",
+                "audio_name": "SyntheticDesign EC08_08_1",
+                "audio_url": "Musical/Bright/SyntheticDesign EC08_08_1.mp3",
+                "duration": 3788,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Transition ELE01_38.mp3",
+                "audio_name": "Transition ELE01_38",
+                "audio_url": "Musical/Bright/Transition ELE01_38.mp3",
+                "duration": 8594,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "ViolinScale_BW.26332.mp3",
+                "audio_name": "ViolinScale_BW.26332",
+                "audio_url": "Musical/Bright/ViolinScale_BW.26332.mp3",
+                "duration": 4545,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "War Drums.mp3",
+                "audio_name": "War Drums",
+                "audio_url": "Musical/Bright/War Drums.mp3",
+                "duration": 34351,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "War_UI_Drum_Movement_Organic_War_Drums_1.mp3",
+                "audio_name": "War_UI_Drum_Movement_Organic_War_Drums_1",
+                "audio_url": "Musical/Bright/War_UI_Drum_Movement_Organic_War_Drums_1.mp3",
+                "duration": 5982,
+                "music_genre": "Musical",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "Performance",
+        "genre_name_vi": "Màn biểu diễn",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 29,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "02728 folk whistles.mp3",
+                "audio_name": "02728 folk whistles",
+                "audio_url": "Performance/Bright/02728 folk whistles.mp3",
+                "duration": 758,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "19151 audience shout with clapping-full.mp3",
+                "audio_name": "19151 audience shout with clapping-full",
+                "audio_url": "Performance/Bright/19151 audience shout with clapping-full.mp3",
+                "duration": 3892,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Applause Cheering 1.mp3",
+                "audio_name": "Applause Cheering 1",
+                "audio_url": "Performance/Bright/Applause Cheering 1.mp3",
+                "duration": 7576,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Applause Cheering.mp3",
+                "audio_name": "Applause Cheering",
+                "audio_url": "Performance/Bright/Applause Cheering.mp3",
+                "duration": 7602,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Audience Clapping 1.mp3",
+                "audio_name": "Audience Clapping 1",
+                "audio_url": "Performance/Bright/Audience Clapping 1.mp3",
+                "duration": 9247,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "BoingDrumRepeater PE940501.mp3",
+                "audio_name": "BoingDrumRepeater PE940501",
+                "audio_url": "Performance/Bright/BoingDrumRepeater PE940501.mp3",
+                "duration": 5825,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Buzzer Wrong Answer.mp3",
+                "audio_name": "Buzzer Wrong Answer",
+                "audio_url": "Performance/Bright/Buzzer Wrong Answer.mp3",
+                "duration": 2952,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "camera-shutter-clicks.mp3",
+                "audio_name": "camera-shutter-clicks",
+                "audio_url": "Performance/Bright/camera-shutter-clicks.mp3",
+                "duration": 3631,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CartoonBoing 4001_09_5.mp3",
+                "audio_name": "CartoonBoing 4001_09_5",
+                "audio_url": "Performance/Bright/CartoonBoing 4001_09_5.mp3",
+                "duration": 7445,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Clapping.mp3",
+                "audio_name": "Clapping",
+                "audio_url": "Performance/Bright/Clapping.mp3",
+                "duration": 17241,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CrowdCheer_BW.16011.mp3",
+                "audio_name": "CrowdCheer_BW.16011",
+                "audio_url": "Performance/Bright/CrowdCheer_BW.16011.mp3",
+                "duration": 13401,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CrowdReaction_DIGII01-80-1.mp3",
+                "audio_name": "CrowdReaction_DIGII01-80-1",
+                "audio_url": "Performance/Bright/CrowdReaction_DIGII01-80-1.mp3",
+                "duration": 3030,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "crowd_cheering.mp3",
+                "audio_name": "crowd_cheering",
+                "audio_url": "Performance/Bright/crowd_cheering.mp3",
+                "duration": 22230,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Explainer_Video_Foley_Crowd_Small_Young_Cheer_Woo_2_INT.mp3",
+                "audio_name": "Explainer_Video_Foley_Crowd_Small_Young_Cheer_Woo_2_INT",
+                "audio_url": "Performance/Bright/Explainer_Video_Foley_Crowd_Small_Young_Cheer_Woo_2_INT.mp3",
+                "duration": 10057,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Female Saying Wow 2.mp3",
+                "audio_name": "Female Saying Wow 2",
+                "audio_url": "Performance/Bright/Female Saying Wow 2.mp3",
+                "duration": 1489,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Heartbeat.mp3",
+                "audio_name": "Heartbeat",
+                "audio_url": "Performance/Bright/Heartbeat.mp3",
+                "duration": 2064,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Inspirational Success.mp3",
+                "audio_name": "Inspirational Success",
+                "audio_url": "Performance/Bright/Inspirational Success.mp3",
+                "duration": 5355,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "LG_Sound - Censorship Beep (Mp3).mp3",
+                "audio_name": "LG_Sound - Censorship Beep (Mp3)",
+                "audio_url": "Performance/Bright/LG_Sound - Censorship Beep (Mp3).mp3",
+                "duration": 1933,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "LG_Sound - Fireworks (Mp3).mp3",
+                "audio_name": "LG_Sound - Fireworks (Mp3)",
+                "audio_url": "Performance/Bright/LG_Sound - Fireworks (Mp3).mp3",
+                "duration": 57025,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magical Poof.mp3",
+                "audio_name": "Magical Poof",
+                "audio_url": "Performance/Bright/Magical Poof.mp3",
+                "duration": 5930,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Magical Winner.mp3",
+                "audio_name": "Magical Winner",
+                "audio_url": "Performance/Bright/Magical Winner.mp3",
+                "duration": 4441,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Money Winner.mp3",
+                "audio_name": "Money Winner",
+                "audio_url": "Performance/Bright/Money Winner.mp3",
+                "duration": 8046,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "right-answer-01.mp3",
+                "audio_name": "right-answer-01",
+                "audio_url": "Performance/Bright/right-answer-01.mp3",
+                "duration": 6583,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Small Child Saying Wow.mp3",
+                "audio_name": "Small Child Saying Wow",
+                "audio_url": "Performance/Bright/Small Child Saying Wow.mp3",
+                "duration": 1280,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Teenage Girl Whispering Wow.mp3",
+                "audio_name": "Teenage Girl Whispering Wow",
+                "audio_url": "Performance/Bright/Teenage Girl Whispering Wow.mp3",
+                "duration": 1123,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "TelephoneCellular 6058_47_2.mp3",
+                "audio_name": "TelephoneCellular 6058_47_2",
+                "audio_url": "Performance/Bright/TelephoneCellular 6058_47_2.mp3",
+                "duration": 4754,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "TromboneAccent SME01_91.2.mp3",
+                "audio_name": "TromboneAccent SME01_91.2",
+                "audio_url": "Performance/Bright/TromboneAccent SME01_91.2.mp3",
+                "duration": 6687,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Victory.mp3",
+                "audio_name": "Victory",
+                "audio_url": "Performance/Bright/Victory.mp3",
+                "duration": 3422,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Winner.mp3",
+                "audio_name": "Winner",
+                "audio_url": "Performance/Bright/Winner.mp3",
+                "duration": 3082,
+                "music_genre": "Performance",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "genre_name_en": "Transition",
+        "genre_name_vi": "Chuyển tiếp",
+        "genre_thumbnail": "",
+        "genre_premium": false,
+        "genre_watch_video": false,
+        "list_mood": [
+          {
+            "mood_name_en": "Bright",
+            "mood_name_vi": "Tươi sáng",
+            "mood_thumbnail": "",
+            "mood_total_track": 31,
+            "mood_premium": false,
+            "mood_watch_video": false,
+            "list_audio": [
+              {
+                "key_id": "Bamboo Swish2.mp3",
+                "audio_name": "Bamboo Swish2",
+                "audio_url": "Transition/Bright/Bamboo Swish2.mp3",
+                "duration": 2299,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "BoingDrumRepeater PE940501.mp3",
+                "audio_name": "BoingDrumRepeater PE940501",
+                "audio_url": "Transition/Bright/BoingDrumRepeater PE940501.mp3",
+                "duration": 5825,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Cartoon Character Countdown Ten To One 2.mp3",
+                "audio_name": "Cartoon Character Countdown Ten To One 2",
+                "audio_url": "Transition/Bright/Cartoon Character Countdown Ten To One 2.mp3",
+                "duration": 9927,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Countdown 7.mp3",
+                "audio_name": "Countdown 7",
+                "audio_url": "Transition/Bright/Countdown 7.mp3",
+                "duration": 3109,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Countdown British Male Voice.mp3",
+                "audio_name": "Countdown British Male Voice",
+                "audio_url": "Transition/Bright/Countdown British Male Voice.mp3",
+                "duration": 8438,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "countdown-beeps-bomb-timer-counting-down-01.mp3",
+                "audio_name": "countdown-beeps-bomb-timer-counting-down-01",
+                "audio_url": "Transition/Bright/countdown-beeps-bomb-timer-counting-down-01.mp3",
+                "duration": 12539,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "CrowdCountdown_BW.16272.mp3",
+                "audio_name": "CrowdCountdown_BW.16272",
+                "audio_url": "Transition/Bright/CrowdCountdown_BW.16272.mp3",
+                "duration": 9639,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "ding-ding.mp3",
+                "audio_name": "ding-ding",
+                "audio_url": "Transition/Bright/ding-ding.mp3",
+                "duration": 4362,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "ding.mp3",
+                "audio_name": "ding",
+                "audio_url": "Transition/Bright/ding.mp3",
+                "duration": 4075,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "el_raygun_12_hpx.mp3",
+                "audio_name": "el_raygun_12_hpx",
+                "audio_url": "Transition/Bright/el_raygun_12_hpx.mp3",
+                "duration": 2456,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Epic Title Whoosh 2.mp3",
+                "audio_name": "Epic Title Whoosh 2",
+                "audio_url": "Transition/Bright/Epic Title Whoosh 2.mp3",
+                "duration": 8020,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Fast Woosh.mp3",
+                "audio_name": "Fast Woosh",
+                "audio_url": "Transition/Bright/Fast Woosh.mp3",
+                "duration": 3736,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Female Countdown Ten To One 1.mp3",
+                "audio_name": "Female Countdown Ten To One 1",
+                "audio_url": "Transition/Bright/Female Countdown Ten To One 1.mp3",
+                "duration": 12617,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Female Countdown Ten To One 2.mp3",
+                "audio_name": "Female Countdown Ten To One 2",
+                "audio_url": "Transition/Bright/Female Countdown Ten To One 2.mp3",
+                "duration": 9822,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "finger snap.mp3",
+                "audio_name": "finger snap",
+                "audio_url": "Transition/Bright/finger snap.mp3",
+                "duration": 313,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Game Play Countdown 3.mp3",
+                "audio_name": "Game Play Countdown 3",
+                "audio_url": "Transition/Bright/Game Play Countdown 3.mp3",
+                "duration": 5930,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Game Start Countdown 17.mp3",
+                "audio_name": "Game Start Countdown 17",
+                "audio_url": "Transition/Bright/Game Start Countdown 17.mp3",
+                "duration": 6008,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Game Start Countdown 29.mp3",
+                "audio_name": "Game Start Countdown 29",
+                "audio_url": "Transition/Bright/Game Start Countdown 29.mp3",
+                "duration": 6060,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Game Start Countdown 3.mp3",
+                "audio_name": "Game Start Countdown 3",
+                "audio_url": "Transition/Bright/Game Start Countdown 3.mp3",
+                "duration": 6583,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Game Start Countdown 31.mp3",
+                "audio_name": "Game Start Countdown 31",
+                "audio_url": "Transition/Bright/Game Start Countdown 31.mp3",
+                "duration": 6922,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Game Start Countdown.mp3",
+                "audio_name": "Game Start Countdown",
+                "audio_url": "Transition/Bright/Game Start Countdown.mp3",
+                "duration": 9169,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Misc Game Sounds 45 Cute Creature Jump.mp3",
+                "audio_name": "Misc Game Sounds 45 Cute Creature Jump",
+                "audio_url": "Transition/Bright/Misc Game Sounds 45 Cute Creature Jump.mp3",
+                "duration": 2586,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Mountain Audio - Simple Game Countdown V3.mp3",
+                "audio_name": "Mountain Audio - Simple Game Countdown V3",
+                "audio_url": "Transition/Bright/Mountain Audio - Simple Game Countdown V3.mp3",
+                "duration": 6060,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Ping Notification 02.mp3",
+                "audio_name": "Ping Notification 02",
+                "audio_url": "Transition/Bright/Ping Notification 02.mp3",
+                "duration": 2038,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Retro Start Countdown 01.mp3",
+                "audio_name": "Retro Start Countdown 01",
+                "audio_url": "Transition/Bright/Retro Start Countdown 01.mp3",
+                "duration": 4049,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Scary Transition.mp3",
+                "audio_name": "Scary Transition",
+                "audio_url": "Transition/Bright/Scary Transition.mp3",
+                "duration": 4101,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "SCIENCE_FICTION_VOCALS_Astronaut_Chatter_Countdown_01.mp3",
+                "audio_name": "SCIENCE_FICTION_VOCALS_Astronaut_Chatter_Countdown_01",
+                "audio_url": "Transition/Bright/SCIENCE_FICTION_VOCALS_Astronaut_Chatter_Countdown_01.mp3",
+                "duration": 4650,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Simple Game Countdown.mp3",
+                "audio_name": "Simple Game Countdown",
+                "audio_url": "Transition/Bright/Simple Game Countdown.mp3",
+                "duration": 6557,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "SproingCartoon CTE02_52.1.mp3",
+                "audio_name": "SproingCartoon CTE02_52.1",
+                "audio_url": "Transition/Bright/SproingCartoon CTE02_52.1.mp3",
+                "duration": 1254,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Witchs_Woosh_2.mp3",
+                "audio_name": "Witchs_Woosh_2",
+                "audio_url": "Transition/Bright/Witchs_Woosh_2.mp3",
+                "duration": 3553,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              },
+              {
+                "key_id": "Woosh Effect.mp3",
+                "audio_name": "Woosh Effect",
+                "audio_url": "Transition/Bright/Woosh Effect.mp3",
+                "duration": 1750,
+                "music_genre": "Transition",
+                "music_mood": "Bright",
+                "music_premium": false,
+                "music_watch_video": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

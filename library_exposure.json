@@ -1,0 +1,150 @@
+{
+  "start_url": "https://photoforapp.s3.ap-southeast-1.amazonaws.com/",
+  "end_url": "",
+  "root_folder": "Video/Exposure/",
+  "center_url_cover": "Video/Exposure/Animal/Cover/1.jpg",
+  "center_url_download": "Video/Exposure/Animal/1.jpg",
+  "type_photo": "jpg",
+  "list": [
+    {
+      "name": "Animal",
+      "name_vi": "Động vật",
+      "folder": "Animal",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Book",
+      "name_vi": "Cuốn sách",
+      "folder": "Book",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "City",
+      "name_vi": "Thành phố",
+      "folder": "City",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Fantasy",
+      "name_vi": "Lộng lẫy",
+      "folder": "Fantasy",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Field",
+      "name_vi": "Cánh đồng",
+      "folder": "Field",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Fire",
+      "name_vi": "Rực lửa",
+      "folder": "Fire",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Flower",
+      "name_vi": "Hoa",
+      "folder": "Flower",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Forest",
+      "name_vi": "Rừng",
+      "folder": "Forest",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Galaxy",
+      "name_vi": "Thiên hà",
+      "folder": "Galaxy",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Lake",
+      "name_vi": "Hồ nước",
+      "folder": "Lake",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Mountain",
+      "name_vi": "Núi",
+      "folder": "Mountain",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Noel",
+      "name_vi": "Noel",
+      "folder": "Noel",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Ocean",
+      "name_vi": "Đại dương",
+      "folder": "Ocean",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Place",
+      "name_vi": "Địa danh",
+      "folder": "Place",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Relax",
+      "name_vi": "Khoảng không",
+      "folder": "Relax",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Sea",
+      "name_vi": "Biển",
+      "folder": "Sea",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Sky",
+      "name_vi": "Bầu trời",
+      "folder": "Sky",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Street",
+      "name_vi": "Đường phố",
+      "folder": "Street",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Sunset",
+      "name_vi": "Hoàng hôn",
+      "folder": "Sunset",
+      "cover": "Thumb",
+      "totalImage": 30
+    },
+    {
+      "name": "Weather",
+      "name_vi": "Thời tiết",
+      "folder": "Weather",
+      "cover": "Thumb",
+      "totalImage": 30
+    }
+  ]
+}

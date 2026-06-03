@@ -1,0 +1,10 @@
+{
+  "start_url": "https://photoforapp.s3.ap-southeast-1.amazonaws.com/",
+  "end_url": "",
+  "root_folder": "Video/Exposure/",
+  "name": "Exposure",
+  "name_vi": "Phơi sáng",
+  "index_start": 1,
+  "type_photo": "jpg",
+  "total_image": 20
+}

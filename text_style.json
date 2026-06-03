@@ -1,0 +1,78 @@
+{
+  "start_url": "https://raw.githubusercontent.com/NgUyenNgOcKhAnH1190/6996f6bca16b514a97cd520ab909257a/refs/heads/main/Video/TextV2/Style/",
+  "name_texture": "texture",
+  "listData": [
+    {
+      "name_En": "Basic",
+      "name_Folder": "Basic",
+      "name_Vi": "Cơ bản",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    },
+    {
+      "name_En": "Blue",
+      "name_Folder": "Blue",
+      "name_Vi": "Xanh da trời",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    },
+    {
+      "name_En": "Color",
+      "name_Folder": "Color",
+      "name_Vi": "Màu sắc",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    },
+    {
+      "name_En": "Gradient",
+      "name_Folder": "Gradient",
+      "name_Vi": "Dải màu",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    },
+    {
+      "name_En": "Green",
+      "name_Folder": "Green",
+      "name_Vi": "Xanh lá",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    },
+    {
+      "name_En": "Neon",
+      "name_Folder": "Neon",
+      "name_Vi": "Neon",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    },
+    {
+      "name_En": "Pink",
+      "name_Folder": "Pink",
+      "name_Vi": "Hồng",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    },
+    {
+      "name_En": "Texture",
+      "name_Folder": "Texture",
+      "name_Vi": "Kết cấu",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    },
+    {
+      "name_En": "Yellow",
+      "name_Folder": "Yellow",
+      "name_Vi": "Kết cấu",
+      "icon": "cover",
+      "name_json": "text",
+      "total": 30
+    }
+  ]
+}
